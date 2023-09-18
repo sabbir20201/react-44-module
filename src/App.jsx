@@ -1,11 +1,12 @@
 import './App.css'
-import Test from './Components/Test'
+import Navber from './Components/Navber/Navber'
+
 
 function App() {
 
   return (
     <>
-      <Test></Test>
+      <Navber></Navber>
     </>
   )
 }
